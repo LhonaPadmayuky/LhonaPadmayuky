@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LhonaPadmayuky
+- 👋 Hi, I’m LhonaPadmayuky
 - 👀 I’m interested in python, UI UX designing and doing Machine learning projects
 - 🌱 I’m currently learning MCA 
 - 💞️ I’m looking to collaborate on ...
