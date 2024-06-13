@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LhonaPadmayuky
 - 👀 I’m interested in python, Django Framework ,React,and doing Machine learning projects
-- 🌱 I’m currently learning MCA 
+- 🌱 I’m currently doing MCA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through Email:@lhonapadmayuky711@gmail.com
 - 😄 Pronouns: her/she
