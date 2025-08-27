@@ -1,12 +1,11 @@
-- 👋 Hi, I’m LhonaPadmayuky
-- 👀 I’m interested in python, Django Framework ,React,and doing Machine learning projects
-- 🌱 I’m currently doing MCA 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through Email:@lhonapadmayuky699@gmail.com
-- 😄 Pronouns: her/she
-- ⚡ Fun fact: Love doing traditional paintings
+🎓 Completed MCA | Currently pursuing Cybersecurity Training @ A2000
 
-<!---
-LhonaPadmayuky/LhonaPadmayuky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Interested in Python, Django Framework, React, and Machine Learning projects
+
+🤝 Open to collaborating on AI/ML, Cybersecurity, and Open Source
+
+✉️ Reach me at: lhonapadmayuky699@gmail.com
+
+😄 Pronouns: She/Her
+
+🎨 Fun fact: I love creating traditional paintings
