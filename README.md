@@ -1,15 +1,9 @@
-🎓 Completed MCA | Currently pursuing Cybersecurity Training @ A2000
+👩‍💻 Code. Detect. Defend.
 
-🌱 Interested in Python, Django Framework, React, and Machine Learning projects
+Cybersecurity & AI Enthusiast ⚡ | Python • Django • React  
 
-🤝 Open to collaborating on AI/ML, Cybersecurity, and Open Source
+🔍 SOC Analysis | Threat Detection | ML Projects  
 
-🚀 Contributor @ Open Source Connect India
+Contributor @ Open Source Connect India 🌐
 
-🌐 Worked on projects in Crop Recommendation Systems, Deep Learning for Disease Detection, and Cybersecurity Analysis
-
-✉️ Reach me at: lhonapadmayuky699@gmail.com
-
-😄 Pronouns: She/Her
-
-🎨 Fun fact: I love creating traditional paintings
+✨ Reach me : lhonapadmayuky@gmail.com
