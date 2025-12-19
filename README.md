@@ -11,9 +11,9 @@
   🔗 **[Yukmahlon Tech Blog](https://yukmahlon.blogspot.com/)**  
 - 💬 Ask me about **Python, ML/DL, AI in Healthcare, and Academic Research**  
 - 📫 Reach me at: **lhonapadmayuky@gmail.com**
-- Content writing and social media handling for the art page ![@lavender_artnika](https://www.instagram.com/lavender_artnika/), focused on creative storytelling and audience engagement.
+- Content writing and social media handling for the art page(https://www.instagram.com/lavender_artnika/), focused on creative storytelling and audience engagement.
 - ![DesignsbyAvanthika]_(https://in.pinterest.com/DesignsbyAvanthika/))
-- ![Amazon Kdp](https://www.amazon.com/author/lhonapadmayuky)
+- ![Amazon Kdp]_(https://www.amazon.com/author/lhonapadmayuky))
 ---
 
 ### 🛠️ My Tech Arsenal  
