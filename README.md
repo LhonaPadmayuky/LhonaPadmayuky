@@ -13,7 +13,8 @@
 - 📫 Reach me at: **lhonapadmayuky@gmail.com**
 - Content writing and social media handling for the art page ![@lavender_artnika](https://www.instagram.com/lavender_artnika/), focused on creative storytelling and audience engagement.
 - ![DesignsbyAvanthika]_(https://in.pinterest.com/DesignsbyAvanthika/))
-
+- 
+![Amazon Kdp](https://www.amazon.com/author/lhonapadmayuky)
 ---
 
 ### 🛠️ My Tech Arsenal  
